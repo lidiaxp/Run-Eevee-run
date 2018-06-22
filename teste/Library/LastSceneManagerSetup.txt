@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/OverlayDemo/KinectOverlayDemo.unity
+  isLoaded: 1
+  isActive: 1

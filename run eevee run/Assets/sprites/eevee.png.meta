@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 10e5c2411da8bb54faeea010901484f4
+timeCreated: 1476219147
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eevee_0
+    21300002: eevee_1
+    21300004: eevee_2
+    21300006: eevee_3
+    21300008: eevee_4
+    21300010: eevee_5
+    21300012: eevee_7
+    21300014: eevee_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eevee_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 342
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eevee_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 235
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eevee_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 243
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eevee_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 232
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eevee_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 129
+        width: 77
+        height: 77
+      alignment: 9
+      pivot: {x: 0.1308952, y: 0.5109078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eevee_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 133
+        width: 113
+        height: 69
+      alignment: 9
+      pivot: {x: 0.059462693, y: 0.5121725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eevee_7
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 137
+        width: 192
+        height: 76
+      alignment: 9
+      pivot: {x: 0.043745358, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eevee_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 23
+        width: 264
+        height: 76
+      alignment: 9
+      pivot: {x: 0.038177766, y: 0.51105136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
